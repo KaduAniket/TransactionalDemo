@@ -12,4 +12,5 @@ public class TransactionalDemoApplication {
 	
 	// this is a conflict change -- ha ha ha
 
+	// this is a test comment
 }
