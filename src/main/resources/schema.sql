@@ -1,0 +1,4 @@
+CREATE TABLE STUDENT(
+  id          INTEGER PRIMARY KEY,
+  name VARCHAR2(64) NOT NULL,
+  passport_number   VARCHAR2(64) NOT NULL);
