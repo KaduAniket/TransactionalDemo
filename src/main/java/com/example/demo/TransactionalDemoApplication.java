@@ -10,7 +10,7 @@ public class TransactionalDemoApplication {
 		SpringApplication.run(TransactionalDemoApplication.class, args);
 	}
 	
-	// this is a conflict change -- ha ha haaa
+	// this is a confl change -- ha ha haaa
 
 	// this is a test comment
 }
