@@ -14,4 +14,6 @@ public class TransactionalDemoApplication {
 	// this is a confl change -- ha ha haaa
 
 	// this is a test comment
+	
+	// Some additional details
 }
